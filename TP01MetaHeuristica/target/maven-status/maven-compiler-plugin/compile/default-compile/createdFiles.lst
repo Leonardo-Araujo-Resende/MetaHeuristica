@@ -1,0 +1,9 @@
+com\mycompany\tp01metaheuristica\Model\SimulatedAnnealing.class
+com\mycompany\tp01metaheuristica\DAO\DaoEstatisticasHC.class
+com\mycompany\tp01metaheuristica\Model\HillClimbing.class
+com\mycompany\tp01metaheuristica\DAO\ConexaoBD.class
+com\mycompany\tp01metaheuristica\Model\EstatisticaHC.class
+com\mycompany\tp01metaheuristica\Model\GeradorNumerosAleatorios.class
+com\mycompany\tp01metaheuristica\TP01MetaHeuristica.class
+com\mycompany\tp01metaheuristica\Model\EstatisticaSA.class
+com\mycompany\tp01metaheuristica\DAO\DaoEstatisticasSA.class
